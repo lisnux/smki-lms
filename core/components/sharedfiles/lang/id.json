@@ -1,0 +1,11 @@
+{
+    "chooseactionrepeatedfile": "Sudah ada berkas dengan nama ini. Apakah Anda ingin mengganti berkas yang ada atau mengganti nama ke \"{{$a}}\"?",
+    "chooseaccountstorefile": "Pilih akun untuk menyimpan berkas didalam.",
+    "errorreceivefilenosites": "Tidak ada situs yang tersimpan. Harap tambahkan situs sebelum berbagi file dengan aplikasi.",
+    "nosharedfiles": "Tidak ada file bersama yang disimpan di situs ini.",
+    "nosharedfilestoupload": "Anda tidak memiliki file untuk meng-upload di sini. Jika Anda ingin meng-upload file dari aplikasi lain, cari file tersebut dan klik tombol 'Buka di'.",
+    "rename": "Ganti nama",
+    "replace": "Ganti",
+    "sharedfiles": "berbagi berkas",
+    "successstorefile": "Berkas berhasil disimpan. Sekarang Anda dapat memilih berkas ini untuk mengunggah ke berkas pribadi Anda atau melampirkannya dalam beberapa kegiatan."
+}

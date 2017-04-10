@@ -1,0 +1,21 @@
+{
+    "activitydisabled": "Organisasi anda telah menonaktifkan aktifitas ini di aplikasi mobile.",
+    "activitynotyetviewableinapp": "Kami sedang bekerja untuk dukungan aktifitas {{$ a}}.",
+    "activitynotyetviewableremoteaddon": "Organisasi anda memasang plugin yang tidak didukung.",
+    "activitynotyetviewablesiteupgradeneeded": "Instalasi Moodle organisasi anda perlu untuk diperbarui.",
+    "allsections": "semua bagian",
+    "askadmintosupport": "Hubungi administrator situs dan memberitahu mereka bahwa Anda ingin menggunakan kegiatan ini dengan aplikasi Moodle Mobile.",
+    "confirmdeletemodulefiles": "Apakah Anda yakin ingin menghapus berkas modul ini?",
+    "confirmdownload": "Anda sedang mengunduh {{size}}. Apakah yakin mau melanjutkan?",
+    "confirmdownloadunknownsize": "Kami tidak dapat menghitung ukuran unduhan. Apakah Anda yakin Anda ingin mengunduh?",
+    "confirmpartialdownloadsize": "Anda sedang mengunduk <strong>sedikitnya</strong> {{size}}. Apakah yakin mau melanjutkan?",
+    "contents": "Konten",
+    "couldnotloadsections": "tidak dapat memuat bagian, coba lagi nanti.",
+    "couldnotloadsectioncontent": "Tidak dapat memuat bagian konten, coba lagi nanti.",
+    "errordownloadingsection": "Kesalahan mengunduh bagian",
+    "errorgetmodule": "Kesalahan mendapatkan data modul.",
+    "nocontentavailable": "Tidak ada konten yang tersedia saat ini.",
+    "overriddennotice": "nilai akhir Anda dari kegiatan ini disesuaikan secara manual.",
+    "useactivityonbrowser": "Anda masih dapat menggunakannya menggunakan browser perangkat Anda.",
+    "showall": "Tampilakan semua"
+}

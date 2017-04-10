@@ -1,0 +1,22 @@
+{
+	"answer": "Jawaban",
+	"answersaved": "Jawaban disimpan",
+	"certainty": "Pasti",
+	"complete": "Selesai",
+	"correct": "Benar",
+	"errorattachmentsnotsupported": "Aplikasi ini tidak mendukung melampirkan berkas ke jawaban.",
+	"errorinlinefilesnotsupported": "Aplikasi ini tidak mendukung mengedit berkas inline.",
+	"errorquestionnotsupported": "jenis pertanyaan ini tidak didukung oleh aplikasi: {{$a}}.",
+	"feedback": "Masukan",
+	"howtodraganddrop": "Tekan untuk memilih lalu tekan untuk menjatuhkan.",
+	"incorrect": "Salah",
+	"information": "Informasi",
+	"invalidanswer": "Jawaban belum lengkap",
+	"notanswered": "Tidak dijawab",
+	"notyetanswered": "Belum menjawab",
+	"partiallycorrect": "Benar sebagian",
+	"questionmessage": "Pertanyaan {{$a}}: {{$b}}",
+	"questionno": "Pertanyaan {{$a}}",
+	"requiresgrading": "Nilai diperlukan",
+	"unknown": "Tidak dapat menentukan status"
+}
